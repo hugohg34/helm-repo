@@ -3,12 +3,12 @@ entries:
   eoloplant:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-04-19T00:47:37.257055+02:00"
+    created: "2022-04-19T00:57:07.545087+02:00"
     description: Eoloplant app for MCA
-    digest: 4c29441a0e617444456e7ef4b8a5b7dae3516ba4f899a6699d305ae4a18a4cee
+    digest: 7b081830c10407adee3886941079d01cc6a4ad95bbfa5af20e0a560d9a6b46bd
     name: eoloplant
     type: application
     urls:
     - eoloplant-0.1.0.tgz
     version: 0.1.0
-generated: "2022-04-19T00:47:37.256182+02:00"
+generated: "2022-04-19T00:57:07.544154+02:00"
